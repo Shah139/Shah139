@@ -1,13 +1,77 @@
-<h1 align="center">Hi 👋, I'm Shah</h1>
-<h3 align="center">A passionate flutter developer</h3>
+# Hi 👋, I'm Shah
 
-- 🔭 I’m currently working on [Snapsdi](https://github.com/Shah139/SSnapsdi)
+### Full Stack Developer
 
-- 📫 How to reach me **snasohag9@gmail.com**
+💡 Passionate about solving complex problems and building scalable, real-world software solutions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 📖 About Me
+
+I am a Full Stack Developer with experience building real-world software products across mobile, web, and backend systems.
+
+I enjoy transforming ideas into practical and production-ready applications that solve meaningful problems. My experience includes working on and deploying systems in domains such as **E-commerce POS, EdTech, and Business Management Solutions**.
+
+I am particularly interested in **cross-platform app development, scalable backend systems, software architecture, and intelligent systems powered by Machine Learning**.
+
+---
+
+## 🚀 What I'm Currently Working On
+
+* 📱 Building Flutter applications for startups
+
+  * Food Delivery System
+  * Educational Game Platform
+  * OCR-based Market Applications
+
+* 🌐 Developing MERN applications
+
+  * Restaurant POS System
+  * ERP Solutions for startups
+
+* 🧠 Learning Machine Learning and ML models in depth
+
+* ⚙️ Improving backend engineering, scalable APIs, and system design knowledge
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Programming Languages
+
+`C++` `C#` `Dart` `JavaScript`
+
+### Frontend & Frameworks
+
+`React` `Flutter` `Unity` `Flame` `Vite` `JavaFX`
+
+### Backend & Databases
+
+`Node.js` `Spring Boot` `Firebase` `Supabase` `SQLite` `PostgreSQL` `SQL`
+
+### Tools & Platforms
+
+`Git` `GitHub` `Vercel` `Render` `Clever Cloud` `Brevo` `Cursor`
+
+---
+
+## 💡 Areas of Interest
+
+* Full Stack Development
+* Mobile App Development
+* Machine Learning
+* System Design
+* Startup Product Engineering
+* Scalable Software Systems
+
+---
+
+## 📊 GitHub Statistics
+
+(Add GitHub stats cards here)
+
+---
+
+## 🌐 Connect With Me
+
+📫 Email: [your-email@email.com](mailto:your-email@email.com)
