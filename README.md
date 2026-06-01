@@ -66,12 +66,7 @@ I am particularly interested in **cross-platform app development, scalable backe
 
 ---
 
-## 📊 GitHub Statistics
-
-(Add GitHub stats cards here)
-
----
 
 ## 🌐 Connect With Me
 
-📫 Email: [your-email@email.com](mailto:your-email@email.com)
+📫 Email: [snasohag9@gmail.com](mailto:your-email@email.com)
